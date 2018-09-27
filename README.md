@@ -3,10 +3,9 @@
 Se escribe solo así `esto es para código`
 ``` 
 
-esto es para varias lineas del codigs
+esto es para varias lineas del codigo
 o
 o
 o
 o
 ```
-[masinfo]
